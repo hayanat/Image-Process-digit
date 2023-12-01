@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Ex4_files_20230611.dir/main.cpp.o CMakeFiles/Ex4_files_20230611.dir/Matrix.cpp.o -o Ex4_files_20230611 

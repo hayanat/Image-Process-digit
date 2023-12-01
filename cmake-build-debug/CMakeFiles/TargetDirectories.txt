@@ -1,0 +1,3 @@
+/mnt/c/Users/haya1/OneDrive/Desktop/Ex4_files-20230611/cmake-build-debug/CMakeFiles/Ex4_files_20230611.dir
+/mnt/c/Users/haya1/OneDrive/Desktop/Ex4_files-20230611/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/haya1/OneDrive/Desktop/Ex4_files-20230611/cmake-build-debug/CMakeFiles/rebuild_cache.dir
